@@ -1,8 +1,9 @@
 # Tribute-Page 
-[Mobile Design](#Mobile}
+
 ---
 ![image](https://github.com/7hakur/Tribute-Page/assets/27799498/9969d38c-a5c6-4ebc-b1c8-252b88610b1d)
 This is the is solution of Tribute page
+[Mobile Design](#Mobile}
 .
 
 .
