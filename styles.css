@@ -1,0 +1,87 @@
+:root {
+  --primary-color: rgb(238, 238, 238);
+  --white: rgb(255, 255, 255);
+  --black: rgb(51, 51, 51);
+}
+* {
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--black);
+}
+
+body {
+  margin: 30px 10px;
+}
+#main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--primary-color);
+  border-radius: 4px;
+  padding: 2em 0.5em;
+}
+#title,
+#subtitle {
+  text-align: center;
+  margin-bottom: 0;
+}
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--white);
+  min-width: 97%;
+  margin: 1em 2em;
+  padding: 1em;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+#img-caption {
+  font-size: 0.8em;
+  font-style: italic;
+  margin-top: 0.5em;
+  text-align: center;
+}
+.time-line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 530px;
+
+  border-radius: 4px;
+  margin: 0.5em auto;
+}
+
+.time-line-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 2em 0;
+}
+
+ul li {
+  font-size: 0.9rem;
+  margin-bottom: 1.2em;
+  line-height: 1.5;
+}
+ul li span {
+  font-weight: bold;
+}
+
+.quote {
+  max-width: 500px;
+}
+.quote p {
+  color: var(--black);
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: justify;
+  margin: 1em 0;
+}
+#tribute-info p {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--black);
+}
