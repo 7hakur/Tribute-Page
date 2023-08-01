@@ -3,7 +3,8 @@
 This is the [solution]() of Tribute page
 
 
-![image](https://github.com/7hakur/Tribute-Page/assets/27799498/1ddfba19-5505-4612-b993-3e0bb4792fe8)
+![image](https://github.com/7hakur/Tribute-Page/assets/27799498/7e2ab81d-3d56-498d-9fb3-5bb39e2d77ab)
+
 
 
 
