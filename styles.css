@@ -72,16 +72,18 @@ ul li span {
 
 .quote {
   max-width: 500px;
+  padding: 1em;
 }
 .quote p {
   color: var(--black);
   font-size: 0.9rem;
   font-style: italic;
   text-align: justify;
-  margin: 1em 0;
+  /* margin: 1em 0; */
 }
 #tribute-info p {
   font-size: 1.1rem;
   font-weight: bold;
   color: var(--black);
+  text-align: center;
 }
