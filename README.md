@@ -13,4 +13,4 @@ This is part of FreeCodeCamp challange and this my solution
 * ## Mobile
 ![image](https://github.com/7hakur/Tribute-Page/assets/27799498/7e2ab81d-3d56-498d-9fb3-5bb39e2d77ab)
 
-#Tibute
+# Tibute
